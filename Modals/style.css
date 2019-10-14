@@ -1,0 +1,9 @@
+.cs{
+    height: 200px;
+    width: 600px;
+    background: black;
+    border-radius: 10px 5px;
+    box-shadow: 10px 20px 0px 0px red;
+    margin-top: 10px;
+    margin-left: 10px;
+}
